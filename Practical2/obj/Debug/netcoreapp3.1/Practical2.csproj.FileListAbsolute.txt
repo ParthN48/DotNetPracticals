@@ -1,0 +1,11 @@
+/home/royal/Desktop/Parth/COLLEGE/Sem-6/DotNet/LabPracticals/Practical2/bin/Debug/netcoreapp3.1/Practical2
+/home/royal/Desktop/Parth/COLLEGE/Sem-6/DotNet/LabPracticals/Practical2/bin/Debug/netcoreapp3.1/Practical2.deps.json
+/home/royal/Desktop/Parth/COLLEGE/Sem-6/DotNet/LabPracticals/Practical2/bin/Debug/netcoreapp3.1/Practical2.runtimeconfig.json
+/home/royal/Desktop/Parth/COLLEGE/Sem-6/DotNet/LabPracticals/Practical2/bin/Debug/netcoreapp3.1/Practical2.runtimeconfig.dev.json
+/home/royal/Desktop/Parth/COLLEGE/Sem-6/DotNet/LabPracticals/Practical2/bin/Debug/netcoreapp3.1/Practical2.dll
+/home/royal/Desktop/Parth/COLLEGE/Sem-6/DotNet/LabPracticals/Practical2/bin/Debug/netcoreapp3.1/Practical2.pdb
+/home/royal/Desktop/Parth/COLLEGE/Sem-6/DotNet/LabPracticals/Practical2/obj/Debug/netcoreapp3.1/Practical2.csprojAssemblyReference.cache
+/home/royal/Desktop/Parth/COLLEGE/Sem-6/DotNet/LabPracticals/Practical2/obj/Debug/netcoreapp3.1/Practical2.AssemblyInfoInputs.cache
+/home/royal/Desktop/Parth/COLLEGE/Sem-6/DotNet/LabPracticals/Practical2/obj/Debug/netcoreapp3.1/Practical2.AssemblyInfo.cs
+/home/royal/Desktop/Parth/COLLEGE/Sem-6/DotNet/LabPracticals/Practical2/obj/Debug/netcoreapp3.1/Practical2.dll
+/home/royal/Desktop/Parth/COLLEGE/Sem-6/DotNet/LabPracticals/Practical2/obj/Debug/netcoreapp3.1/Practical2.pdb
