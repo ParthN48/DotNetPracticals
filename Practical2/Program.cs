@@ -20,7 +20,8 @@ namespace Practical2
                 Console.WriteLine("Please Enter country: ");
                 country = Console.ReadLine();
             }while(!Regex.IsMatch(country,"^[a-zA-Z]+$"));
-
+            
+            
             Console.WriteLine("Hi, " + name + " ,from " + country);
             Console.ReadLine();
         }
